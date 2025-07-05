@@ -35,7 +35,7 @@ My name is Artyom and I am engaged in software and iOS-Development
 
 - [ImageFeed](https://github.com/IceRedline/ImageFeed) (finished) - A pinterest analogue with authentification & endless image feed.
   
-- [FakeNFT](https://github.com/IceRedline/FakeNFT) (in develompment) - A mock NFT store app with fake API data
+- [FakeNFT](https://github.com/IceRedline/FakeNFT) (finished) - A mock NFT store app with fake API data (Team Project)
 
 - [MovieQuiz](https://github.com/IceRedline/MovieQuiz-iOS) (finished) - A quiz about movies' ratings from IMDB.
 
