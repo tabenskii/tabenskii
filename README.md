@@ -1,78 +1,50 @@
 # Hi, I'm Artem 👋
 
-Middle iOS Developer at Yandex Fintech.
+**iOS Engineer at Yandex.** I build fintech products at work and apps of my own outside of it.
 
-I build production iOS features using Swift, UIKit, and server-driven UI approaches. My work includes developing new screens and user flows, maintaining existing functionality, fixing bugs, and collaborating with product, design, backend, and QA teams.
+I care about thoughtful interfaces, simple solutions, and the small details that make an app feel right. My work spans native iOS and macOS apps, server-driven UI, and the backend services behind my projects.
 
-Outside of work, I’m building Quizice — an iOS quiz platform with its own backend, PostgreSQL database, admin panel, authentication, CI/CD, and planned AI-generated quizzes.
+[Portfolio](https://tabenskii.com) · [Telegram](https://t.me/tabenskii) · [Email](mailto:artyom2604@yandex.ru) · [LinkedIn](https://www.linkedin.com/in/artem-tabenskii)
 
-## Tech Stack
+## What I work on
 
-**iOS**
+- **Yandex Pay Bank** — native iOS features, backend-driven interfaces, and Liquid Glass support.
+- **Previously, Yango Fintech** — marketplace features for African markets, API integration, and reusable UI components.
+- **Developer tooling** — reusable AI-agent skills for everyday engineering workflows.
 
-`Swift` `UIKit` `SwiftUI` `GCD` `URLSession` `Core Data` `SwiftData`
+## Selected projects
 
-**Architecture & UI**
+### [bleeply](https://github.com/tabenskii/bleeply) · macOS
 
-`MVP` `MVVM` `Server-Driven UI` `BDUI` `DivKit`
+Detect and censor profanity in audio and video with a beep, silence, or a custom sound. Speech recognition and media processing run locally on your Mac, with a timeline for reviewing detected words before export.
 
-**Testing & Tools**
+`Swift` `SwiftUI` `Python` `Whisper` `FFmpeg`
 
-`Unit Testing` `UI Testing` `Snapshot Testing` `Xcode` `Git` `SPM` `Charles` `Proxyman`
+[App Store](https://apps.apple.com/us/app/bleeply/id6821618360?mt=12) · [Source](https://github.com/tabenskii/bleeply)
 
-**Backend & Infrastructure**
+### [Quizice](https://github.com/tabenskii/Quizice) · iOS
 
-`REST APIs` `Python` `PostgreSQL` `Yandex Cloud` `Docker` `CI/CD`
+A native quiz app with themed rounds, AI-generated quizzes, progress tracking, and six interface languages. I build the app alongside its Python/PostgreSQL backend and administration tools.
 
-## Featured Project
+`Swift` `UIKit` `SwiftUI` `SwiftData` `Python` `PostgreSQL`
 
-### [Quizice](https://github.com/IceRedline/Quizice)
+[Source](https://github.com/tabenskii/Quizice) · Preparing for its first App Store release.
 
-An iOS quiz app with multiple topics, question selection, answer validation, and result tracking.
+### [Horizon Wheelspins Simulator](https://horizon-wheelspin.vercel.app) · Web
 
-The iOS client is built with Swift and UIKit using MVP. The project also includes a separate backend, PostgreSQL database, admin tools, role-based authentication, audit logs, and CI/CD.
+A fan-made Forza Horizon wheelspin simulator with virtual prizes, spin history, and stats.
 
-Currently preparing the project for its first App Store release.
+[Try it](https://horizon-wheelspin.vercel.app)
 
-`Swift` `UIKit` `MVP` `REST APIs` `PostgreSQL`
+## Tools I use
 
-## Other Projects
-
-### [FinancialTamer](https://github.com/IceRedline/FinancialTamer)
-
-A personal finance app developed during the Yandex School of Mobile Development.
-
-`Swift` `SwiftUI`
-
-### [AirConverter](https://github.com/IceRedline/AirConverter)
-
-A collection of everyday utilities, including currency conversion, date calculations, and a calculator.
-
-`Swift` `UIKit` `MVP`
-
-### Learning Projects
-
-- [Tracker](https://github.com/IceRedline/Tracker) — habit and activity tracker
-- [ImageFeed](https://github.com/IceRedline/ImageFeed) — image feed with OAuth authentication and pagination
-- [FakeNFT](https://github.com/IceRedline/FakeNFT) — mock NFT marketplace developed as a team project
-- [MovieQuiz](https://github.com/IceRedline/MovieQuiz-iOS) — movie rating quiz
+- **Apple platforms:** Swift, UIKit, SwiftUI, SwiftData, URLSession, Swift Package Manager.
+- **Architecture & UI:** MVP, MVVM, Server-Driven UI, DivKit.
+- **Backend & infrastructure:** Python, PostgreSQL, REST APIs, Docker, Yandex Cloud, CI/CD.
+- **Testing & debugging:** unit, UI, and snapshot tests; Xcode, Proxyman, AppMetrica.
 
 ## Education
 
-**Plekhanov Russian University of Economics**
-
-B.Sc. in Information Security, 2023–2027
-
-**Yandex Practicum**
-
-iOS Developer Program, 2024–2025
-
-**Yandex School of Mobile Development**
-
-iOS Development Program, 2025
-
-## Contact
-
-[![Telegram](https://img.shields.io/badge/Telegram-Artem_Tabenskii-blue?logo=telegram)](https://t.me/iceredline)
-[![Email](https://img.shields.io/badge/Email-artyom2604%40yandex.ru-red?logo=gmail)](mailto:artyom2604@yandex.ru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artem_Tabenskii-blue?logo=linkedin)](https://www.linkedin.com/in/artem-tabenskii)
+- **Plekhanov Russian University of Economics** — B.Sc. in Information Security, 2023–2027 (in progress).
+- **Yandex School of Mobile Development** — iOS Development, 2025.
+- **Yandex Practicum** — iOS Developer Program, 2024–2025.
