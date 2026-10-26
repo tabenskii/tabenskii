@@ -1,4 +1,4 @@
-# Hi, I'm Artyom 👋
+# Hi, I'm Artem 👋
 
 Middle iOS Developer at Yandex Fintech.
 
